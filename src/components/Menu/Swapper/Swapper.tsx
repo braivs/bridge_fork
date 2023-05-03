@@ -1,9 +1,7 @@
-import React from "react";
-import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faArrowRightArrowLeft} from "@fortawesome/free-solid-svg-icons";
+import React from "react"
 import s from './Swapper.module.scss'
-import cn from "classnames";
-import {isLightTheme} from "../../../common/common";
+import cn from "classnames"
+import {isLightTheme} from "../../../common/common"
 import {useSelector} from 'react-redux'
 import {AppStoreType} from '../../../redux/store'
 import {AppStateType} from '../../../redux/appReducer'
@@ -24,7 +22,7 @@ export const Swapper  = (props: PropsType) => {
          onClick={() => {
              if (!props.isDisable && !isSwapperDisabled ) props.onClick()
          }}
-    ><FontAwesomeIcon icon={faArrowRightArrowLeft} className={s.icon}/>
+    >
     </div>
     )
 }

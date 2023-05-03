@@ -1,9 +1,8 @@
 {
   "name": "hydro-bridge",
-  "homepage": "https://hydro-bridge.org",
+  "homepage": "https://brightwiths.github.io/bridge_fork",
   "version": "0.1.0",
   "description": "Hydro-Bridge",
-  "author": "hydro-foundation",
   "dependencies": {
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
@@ -55,6 +54,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^5.0.0"
   }
 }
