@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bridge_fork/static/css/main.d0e9a4b2.chunk.css",
+    "main.js": "/bridge_fork/static/js/main.9a921893.chunk.js",
+    "main.js.map": "/bridge_fork/static/js/main.9a921893.chunk.js.map",
+    "runtime-main.js": "/bridge_fork/static/js/runtime-main.4b6b833e.js",
+    "runtime-main.js.map": "/bridge_fork/static/js/runtime-main.4b6b833e.js.map",
+    "static/css/2.a08119d7.chunk.css": "/bridge_fork/static/css/2.a08119d7.chunk.css",
+    "static/js/2.8287c46c.chunk.js": "/bridge_fork/static/js/2.8287c46c.chunk.js",
+    "static/js/2.8287c46c.chunk.js.map": "/bridge_fork/static/js/2.8287c46c.chunk.js.map",
+    "index.html": "/bridge_fork/index.html",
+    "static/css/2.a08119d7.chunk.css.map": "/bridge_fork/static/css/2.a08119d7.chunk.css.map",
+    "static/css/main.d0e9a4b2.chunk.css.map": "/bridge_fork/static/css/main.d0e9a4b2.chunk.css.map",
+    "static/js/2.8287c46c.chunk.js.LICENSE.txt": "/bridge_fork/static/js/2.8287c46c.chunk.js.LICENSE.txt",
+    "static/media/coinexCett.edfdab3b.png": "/bridge_fork/static/media/coinexCett.edfdab3b.png",
+    "static/media/ethereumETH.8c54d27a.png": "/bridge_fork/static/media/ethereumETH.8c54d27a.png",
+    "static/media/hydrobridge.c4395621.svg": "/bridge_fork/static/media/hydrobridge.c4395621.svg",
+    "static/media/hydrobridge_light.c84274a9.svg": "/bridge_fork/static/media/hydrobridge_light.c84274a9.svg",
+    "static/media/polygonMatic.1140771b.png": "/bridge_fork/static/media/polygonMatic.1140771b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b6b833e.js",
+    "static/css/2.a08119d7.chunk.css",
+    "static/js/2.8287c46c.chunk.js",
+    "static/css/main.d0e9a4b2.chunk.css",
+    "static/js/main.9a921893.chunk.js"
+  ]
+}
